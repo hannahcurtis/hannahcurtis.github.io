@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+![image](../images/IMG_7439.png)
+![image](../images/IMG_9204.png)
+
+*Photographs taken at a stormwater pond in Madison, WI 3 months apart*
+
+
 Urbanization significantly disrupts the natural hydrologic cycle by expanding impervious surfaces such as roads, buildings, and parking lots. Stormwater detention ponds combat challenges introduced by urban areas and play a vital role in contemporary stormwater management systems. These ponds are designed to temporarily hold stormwater runoff, controlling its release to reduce downstream flooding and improve water quality by enabling the settling of sediments and pollutants. In addition to their core purposes, detention ponds offer valuable but often overlooked ecosystem services. These include supporting biodiversity, preserving environmental flow regimes essential for downstream ecosystems, and enhancing urban aesthetics and recreational opportunities as a prominent source of natural spaces in cities. The effectiveness of these services depends on watershed characteristics, engineering design features, and the pond's hydrologic regime, which together create synergies and trade-offs both within the pond and downstream.
 
 Reverse Routing in Stormwater Detention Ponds

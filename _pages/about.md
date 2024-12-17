@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="../images/hannah_pond.png" alt="Image of Hannah Curtis standing in a stormwater pond in Madison, WI" style="float:right;max-width:50%;height:auto;padding:1px;"/>
+<img src="../images/hannah_pond.png" alt="Image of Hannah Curtis standing in a stormwater pond in Madison, WI" style="float:right;max-width:30%;height:auto;padding:30px;"/>
 
 Hello! I'm a master's student in the Water Resources Engineering Group at the University of Wisconsin-Madison. I started at UW-Madison in Fall 2022 and am part of the Hydroecology Lab led by Dr. Steve Loheide. I'm also currently a student hydrologist intern at the Upper Midwest Science Center branch of the US Geological Survey.
 
