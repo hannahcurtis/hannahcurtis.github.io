@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 
-<img src="../images/7439.png" style="max-width:45%;height:auto;"/>
-<img src="../images/9204.png" style="max-width:45%;height:auto;"/>
+<img src="../images/IMG_7439.png" style="max-width:45%;height:auto;"/>
+<img src="../images/IMG_9204.png" style="max-width:45%;height:auto;"/>
 
 *Photographs taken at a stormwater pond in Madison, WI 3 months apart*
 
